@@ -1,0 +1,43 @@
+﻿/* Centered text */
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 20px;
+    background-color: lightblue;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    opacity: 0.5;
+}
+
+
+
+.jumbotron {
+	background-color: #ffffff;
+}
+
+
+#img {
+	border-radius: 25px;
+	margin-bottom: 20px;
+}
+
+#img:hover {
+	border: 5px solid white;
+	border-radius: 43px;
+}
+
+#footer {
+	background-color: #222222;
+	text-align: center;
+	color: whitesmoke;
+	font-family: New Times Roman;
+	font-size: 20px;
+	margin-top: 20px;
+	padding: 10px;
+}
+
